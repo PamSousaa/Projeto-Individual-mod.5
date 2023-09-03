@@ -31,17 +31,16 @@ Com base nas análises, algumas recomendações incluem:
 - Investir em desenvolvimento de carreira para reter talentos e promover crescimento interno.
 - Oferecer flexibilidade em casos de realocação.
 
-## Como Usar
+________________________________________
 
-1. Clone este repositório.
-2. Abra os arquivos do projeto no Tableau.
-3. Explore as visualizações interativas e a narrativa para compreender as descobertas.
-4. Sinta-se à vontade para adaptar e compartilhar as visualizações de acordo com suas necessidades.
-
-## Contribuições
-
-Contribuições são bem-vindas! Se você quiser adicionar melhorias ou insights adicionais, fique à vontade para abrir uma "issue" ou enviar um "pull request".
 
 
 Grata Pâmela de Carvalho Sousa
+
+
+
 e-mail : pammilacarvalho@gmail.com
+
+
+
+linkedin : https://www.linkedin.com/in/pamela-carvalho-tech-analista-dados-jr/
